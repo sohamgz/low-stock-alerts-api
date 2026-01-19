@@ -54,7 +54,7 @@ GET http://localhost:3000/api/companies/2/alerts/low-stock
 ```
 ## Tesing with Postman
 
-### Test Case 1: Valid Alert (Company 1)
+### Test Case : Valid Alert (Company 1)
 **Request:**
 ```
 GET http://localhost:3000/api/companies/1/alerts/low-stock
